@@ -1,0 +1,23 @@
+body{
+	background-color: peachpuff;
+
+}
+h1{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+#one{
+	border:solid;
+	border-width: 5px;
+	border-radius: 200px;
+}
+#one img{
+	margin-left: 400px;
+	border: solid;
+	border-width: 5px;
+	padding: 10px;
+	background-color: cyan;
+	border-radius: 50px;
+}
